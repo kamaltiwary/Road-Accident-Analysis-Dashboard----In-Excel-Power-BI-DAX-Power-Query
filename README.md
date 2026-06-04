@@ -1,4 +1,4 @@
-# Road Accident Analysis Dashboard  
+# Road Accident Analysis Dashboard   
 
 📌 **Project Objective**  
 To design and develop a **Road Accident Dashboard in Power BI** for the years 2021 and 2022 that delivers detailed insights into total accidents, casualties, accident severity, vehicle type analysis, road conditions, and location-based hotspots.   
